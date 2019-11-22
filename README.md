@@ -1,1 +1,1 @@
-# blogs
+# Daily Awesome Blog
